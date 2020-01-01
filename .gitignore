@@ -2,7 +2,6 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
 ### https://raw.github.com/github/gitignore/1a9f616ce525987555d43c72d59eb830d1856bd7/Global/macOS.gitignore
 
 # General
@@ -11,7 +10,8 @@ vendor
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
