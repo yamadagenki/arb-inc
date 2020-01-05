@@ -807,10 +807,23 @@ h3 {
   letter-spacing: 15px
 }
 
+.slider_area .single_slider .slider_text h4 {
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 5px
+}
+
 @media (max-width: 767px) {
   .slider_area .single_slider .slider_text h3 {
     font-size: 30px;
     letter-spacing: 3px
+  }
+  .slider_area .single_slider .slider_text h4 {
+    color: #ffffff;
+    font-size: 20px;
   }
 }
 
